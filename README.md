@@ -32,8 +32,6 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
   </a>
 </p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rizzqimln&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## Current Focus
 
 - Frontend fundamentals
@@ -43,8 +41,8 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 
 ## Projects
 
-- Portfolio Card Website - Personal website with card design to showcase my profile and contacts
-- Landing Page Practice - 
+- Portfolio Card Pages - Personal pages with card design to showcase my profile and contacts
+- Pocketsly Dashboard - Trying to make Pocketsly Dashboard for daily usage 
 
 ## GitHub Stats
 
