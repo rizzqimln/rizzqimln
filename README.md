@@ -46,7 +46,7 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 
 ## GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rizzqimln?cardType=level&theme=github-dark&fontFamily=Sometype%20Mono&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
+![](https://github-readme-stats.shion.dev/api?username=rizzqimln&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## Contact
 
