@@ -41,16 +41,15 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 
 ## Projects
 
-- Portfolio Website - Personal website to showcase my work
-- Landing Page Practice - Responsive landing pages from design references
-- UI Components - Small reusable interface components
+- Portfolio Card Website - Personal website with card design to showcase my profile and contacts
+- Landing Page Practice - 
 
 ## GitHub Stats
 
-[![Rizzqi's GitHub stats](https://github-stats-extended.vercel.app/api?username=rizzqimln&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rizzqimln?cardType=level&theme=github-dark&fontFamily=Sometype%20Mono&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/rizzqimaulanailhami/
-- Portfolio: https://rizzqimln.my.id
+- Portfolio: rizzqimln.my.id
 - Email: rizzqimaulanailhami@gmail.com
