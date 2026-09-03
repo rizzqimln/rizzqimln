@@ -12,16 +12,25 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 ## Tech Stack
 
 **Frontend:**
-
-[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
 
 **Design:**
-
-[![Design](https://skillicons.dev/icons?i=figma,ai,blender)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,blender" />
+  </a>
+</p>
 
 **Tools:**
-
-[![Design](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
+</p>
 
 ## Current Focus
 
