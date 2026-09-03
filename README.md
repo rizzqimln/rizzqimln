@@ -19,8 +19,8 @@ Web Developer focused on building clean, responsive, and user-friendly web exper
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-**Frontend:** HTML, CSS, JavaScript
-**Design:** Figma
+**Frontend:** HTML, CSS, JavaScript\
+**Design:** Figma\
 **Tools:** Git, GitHub, VS Code
 
 ## Current Focus
