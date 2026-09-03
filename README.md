@@ -41,8 +41,7 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 
 ## Projects
 
-- Portfolio Card Pages - Personal pages with card design to showcase my profile and contacts
-- Pocketsly Dashboard - Trying to make Pocketsly Dashboard for daily usage 
+- Portfolio Card Pages - Personal pages with card design to showcase my profile and contacts 
 
 ## GitHub Stats
 
@@ -50,5 +49,5 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/rizzqimaulanailhami/
-- Portfolio: rizzqimln.my.id
+- Portfolio: https://rizzqimln.my.id
 - Email: rizzqimaulanailhami@gmail.com
