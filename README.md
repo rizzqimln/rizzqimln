@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Rizzqi
 
-<!--
-**rizzqimln/rizzqimln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer focused on building clean, responsive, and user-friendly web experiences while exploring frontend development and UI/UX design.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning frontend development through practical web projects
+- Exploring UI/UX design to create better user experiences
+- Interested in clean layouts, responsive design, and accessible interfaces
+- Building projects to improve my design-to-code skills
+
+## Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**Frontend:** HTML, CSS, JavaScript
+**Design:** Figma
+**Tools:** Git, GitHub, VS Code
+
+## Current Focus
+
+- Frontend fundamentals
+- Responsive web design
+- UI/UX design principles
+- Accessibility basics
+
+## Projects
+
+- Portfolio Website - Personal website to showcase my work
+- Landing Page Practice - Responsive landing pages from design references
+- UI Components - Small reusable interface components
+
+## GitHub Stats
+
+[![Rizzqi's GitHub stats](https://github-stats-extended.vercel.app/api?username=rizzqimln&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/rizzqimaulanailhami/
+- Portfolio: https://rizzqimln.my.id
+- Email: rizzqimaulanailhami@gmail.com
