@@ -1,10 +1,6 @@
 ![Header](./github-header-banner.png)
 
----
-
 I'm a Web Developer focused on building clean, responsive, and user-friendly web experiences while exploring frontend development and UI/UX design.
-
----
 
 ## About Me
 
@@ -13,7 +9,6 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 - Interested in clean layouts, responsive design, and accessible interfaces
 - Building projects to improve my design-to-code skills
 
----
 
 ## Tech Stack
 
@@ -29,8 +24,6 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 
 [![Design](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
----
-
 ## Current Focus
 
 - Frontend fundamentals
@@ -38,21 +31,15 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 - UI/UX design principles
 - Accessibility basics
 
----
-
 ## Projects
 
 - Portfolio Website - Personal website to showcase my work
 - Landing Page Practice - Responsive landing pages from design references
 - UI Components - Small reusable interface components
 
----
-
 ## GitHub Stats
 
 [![Rizzqi's GitHub stats](https://github-stats-extended.vercel.app/api?username=rizzqimln&theme=dark)](https://github.com/stats-organization/github-stats-extended)
-
----
 
 ## Contact
 
