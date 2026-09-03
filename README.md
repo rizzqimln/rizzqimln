@@ -11,7 +11,8 @@ Web Developer focused on building clean, responsive, and user-friendly web exper
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript
+**Frontend:**
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 **Design:** Figma
