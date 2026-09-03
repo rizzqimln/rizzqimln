@@ -19,7 +19,7 @@ Web Developer focused on building clean, responsive, and user-friendly web exper
 
 **Design:** Figma
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)\
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 **Tools:** Git, GitHub, VS Code
 
