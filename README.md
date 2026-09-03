@@ -13,17 +13,16 @@ Web Developer focused on building clean, responsive, and user-friendly web exper
 
 **Frontend:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-**Design:** Figma
+**Design:**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+[![Design](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
 
-**Tools:** Git, GitHub, VS Code
+**Tools:**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+[![Design](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
 
 ## Current Focus
 
