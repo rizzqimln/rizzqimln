@@ -1,7 +1,5 @@
 ![Header](./github-header-banner.png)
 
-# Hi, I'm Rizzqi
-
 Web Developer focused on building clean, responsive, and user-friendly web experiences while exploring frontend development and UI/UX design.
 
 ## About Me
