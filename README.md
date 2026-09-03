@@ -1,5 +1,6 @@
 ![Header](./github-header-banner.png)
-
+![](https://github-readme-stats.shion.dev/api?username=rizzqimln&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=rizzqimln&theme=dark&hide_border=false)<br/>
 ## About Me
 I'm a Web Developer focused on building clean, responsive, and user-friendly web experiences while exploring frontend development and UI/UX design.
 
@@ -46,8 +47,6 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 
 ## GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=rizzqimln&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=rizzqimln&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rizzqimln&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Contact
