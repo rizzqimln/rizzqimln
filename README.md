@@ -17,7 +17,7 @@ Web Developer focused on building clean, responsive, and user-friendly web exper
 
 **Design:**
 
-[![Design](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma,ai,blender)](https://skillicons.dev)
 
 **Tools:**
 
