@@ -49,5 +49,5 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/rizzqimaulanailhami/
-- Portfolio: https://rizzqimln.my.id
+- Profile Card: https://rizzqimln.my.id
 - Email: rizzqimaulanailhami@gmail.com
