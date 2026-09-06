@@ -3,7 +3,7 @@
 ## About Me
 I'm a Web Developer focused on building clean, responsive, and user-friendly web experiences while exploring frontend development and UI/UX design.
 
-- Learning frontend development through practical web projects
+- Learning Fullstack development through practical web projects
 - Exploring UI/UX design to create better user experiences
 - Interested in clean layouts, responsive design, and accessible interfaces
 - Building projects to improve my design-to-code skills
@@ -11,7 +11,7 @@ I'm a Web Developer focused on building clean, responsive, and user-friendly web
 
 ## Tech Stack
 
-**Frontend:**
+**Languages:**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
